@@ -223,52 +223,81 @@ uvicorn main:app --reload
 
 ---
 
-# Screenshots
+# Application Screenshots
 
 ## Home Page
 
-Insert screenshot here.
+![Home](screenshots/home1.png)
+
+![Home](screenshots/home2.png)
+
+![Home](screenshots/home3.png)
 
 ---
 
-## Menu Page
+## About Page
 
-Insert screenshot here.
+![About](screenshots/aboutus.png)
+
+---
+
+## Menu
+
+![Menu](screenshots/menu1.png)
+
+![Menu](screenshots/menu2.png)
 
 ---
 
 ## AI Chatbot
 
-Insert screenshot here.
+![Chatbot](screenshots/chatbot.png)
 
 ---
 
 ## Shopping Cart
 
-Insert screenshot here.
+![Cart](screenshots/cart.png)
+
+---
+
+## Checkout
+
+![Checkout](screenshots/checkout.png)
+
+---
+
+## User Profile
+
+![Profile](screenshots/profile1.png)
+
+---
+
+## Order History
+
+![Order History](screenshots/order-history.png)
 
 ---
 
 ## Admin Dashboard
 
-Insert screenshot here.
+![Admin](screenshots/admin.png)
 
 ---
 
-# Future Improvements
+## Authentication
 
-- JWT authentication
-- Online payment integration
-- Voice assistant support
-- Order history
-- User favourites
-- Vector database integration
-- Conversation history
+### Login
+
+![Login](screenshots/signin.png)
+
+### Register
+
+![Register](screenshots/register.png)
+
 
 ---
 
 # Author
 
 Mila Veljanoska
-
-Faculty of Computer Science and Engineering (FINKI)
