@@ -1,0 +1,2068 @@
+{
+  "cafe_name": "My Grandparents House",
+  "currency": "MKD",
+  "version": "1.0",
+  "menu_items": [
+    {
+      "id": "espresso",
+      "name": "Espresso",
+      "category": "hot_drinks",
+      "prices": [
+        {
+          "amount_mkd": 100,
+          "option": null
+        }
+      ],
+      "temperature": "hot",
+      "caffeine": true,
+      "available": true,
+      "sweetness": "none",
+      "allergens": [],
+      "flavor_profile": [
+        "bold",
+        "strong",
+        "rich"
+      ],
+      "description": "Strong and concentrated coffee served in a small cup with a rich aroma and bold flavor."
+    },
+    {
+      "id": "double_espresso",
+      "name": "Double Espresso",
+      "category": "hot_drinks",
+      "prices": [
+        {
+          "amount_mkd": 180,
+          "option": null
+        }
+      ],
+      "temperature": "hot",
+      "caffeine": true,
+      "available": true,
+      "sweetness": "none",
+      "allergens": [],
+      "flavor_profile": [
+        "bold",
+        "intense",
+        "strong"
+      ],
+      "description": "A double shot of rich espresso with a stronger caffeine kick and intense coffee flavor."
+    },
+    {
+      "id": "my_grandparents_house_coffee",
+      "name": "My Grandparents House Coffee",
+      "category": "hot_drinks",
+      "prices": [
+        {
+          "amount_mkd": 120,
+          "option": null
+        }
+      ],
+      "temperature": "hot",
+      "caffeine": true,
+      "available": true,
+      "sweetness": "medium",
+      "allergens": [],
+      "flavor_profile": [
+        "traditional",
+        "rich",
+        "comforting"
+      ],
+      "description": "Traditional Turkish-style coffee served slowly brewed with a sweet cookie on the side for an authentic homemade experience."
+    },
+    {
+      "id": "small_macchiato",
+      "name": "Small Macchiato",
+      "category": "hot_drinks",
+      "prices": [
+        {
+          "amount_mkd": 120,
+          "option": null
+        }
+      ],
+      "temperature": "hot",
+      "caffeine": true,
+      "available": true,
+      "sweetness": "low",
+      "allergens": [
+        "milk"
+      ],
+      "flavor_profile": [
+        "creamy",
+        "balanced",
+        "smooth"
+      ],
+      "description": "A smooth espresso shot topped with a small amount of warm milk for a balanced and creamy taste."
+    },
+    {
+      "id": "large_macchiato",
+      "name": "Large Macchiato",
+      "category": "hot_drinks",
+      "prices": [
+        {
+          "amount_mkd": 140,
+          "option": null
+        }
+      ],
+      "temperature": "hot",
+      "caffeine": true,
+      "available": true,
+      "sweetness": "low",
+      "allergens": [
+        "milk"
+      ],
+      "flavor_profile": [
+        "creamy",
+        "smooth",
+        "rich"
+      ],
+      "description": "A larger and creamier version of the classic macchiato made with espresso and warm milk."
+    },
+    {
+      "id": "americano",
+      "name": "Americano",
+      "category": "hot_drinks",
+      "prices": [
+        {
+          "amount_mkd": 130,
+          "option": null
+        }
+      ],
+      "temperature": "hot",
+      "caffeine": true,
+      "available": true,
+      "sweetness": "none",
+      "allergens": [],
+      "flavor_profile": [
+        "bold",
+        "smooth",
+        "rich"
+      ],
+      "description": "A bold espresso diluted with hot water, creating a smooth and rich black coffee."
+    },
+    {
+      "id": "nescafe",
+      "name": "Nescafe",
+      "category": "hot_drinks",
+      "prices": [
+        {
+          "amount_mkd": 170,
+          "option": null
+        }
+      ],
+      "temperature": "hot",
+      "caffeine": true,
+      "available": true,
+      "sweetness": "medium",
+      "allergens": [
+        "milk"
+      ],
+      "flavor_profile": [
+        "sweet",
+        "smooth",
+        "comforting"
+      ],
+      "description": "Instant coffee blended with warm milk and sugar for a smooth, sweet, and comforting drink."
+    },
+    {
+      "id": "latte",
+      "name": "Latte",
+      "category": "hot_drinks",
+      "prices": [
+        {
+          "amount_mkd": 160,
+          "option": null
+        }
+      ],
+      "temperature": "hot",
+      "caffeine": true,
+      "available": true,
+      "sweetness": "low",
+      "allergens": [
+        "milk"
+      ],
+      "flavor_profile": [
+        "creamy",
+        "smooth",
+        "balanced"
+      ],
+      "description": "A creamy coffee drink made with double espresso and steamed milk, offering a smooth and balanced flavor."
+    },
+    {
+      "id": "cappuccino",
+      "name": "Cappuccino",
+      "category": "hot_drinks",
+      "prices": [
+        {
+          "amount_mkd": 150,
+          "option": null
+        }
+      ],
+      "temperature": "hot",
+      "caffeine": true,
+      "available": true,
+      "sweetness": "low",
+      "allergens": [
+        "milk"
+      ],
+      "flavor_profile": [
+        "creamy",
+        "rich",
+        "balanced"
+      ],
+      "description": "A classic Italian coffee drink made with espresso, steamed milk, and a thick layer of milk foam for a rich and creamy texture."
+    },
+    {
+      "id": "cold_espresso",
+      "name": "Cold Espresso",
+      "category": "cold_drinks",
+      "prices": [
+        {
+          "amount_mkd": 100,
+          "option": null
+        }
+      ],
+      "temperature": "cold",
+      "caffeine": true,
+      "available": true,
+      "sweetness": "none",
+      "allergens": [],
+      "flavor_profile": [
+        "bold",
+        "refreshing",
+        "strong"
+      ],
+      "description": "A chilled espresso shot served over ice for a strong and refreshing coffee experience."
+    },
+    {
+      "id": "cold_macchiato",
+      "name": "Cold Macchiato",
+      "category": "cold_drinks",
+      "prices": [
+        {
+          "amount_mkd": 130,
+          "option": null
+        }
+      ],
+      "temperature": "cold",
+      "caffeine": true,
+      "available": true,
+      "sweetness": "low",
+      "allergens": [
+        "milk"
+      ],
+      "flavor_profile": [
+        "creamy",
+        "smooth",
+        "refreshing"
+      ],
+      "description": "A refreshing iced coffee made with espresso, cold milk, and ice for a smooth and balanced flavor."
+    },
+    {
+      "id": "freddo_espresso",
+      "name": "Freddo Espresso",
+      "category": "cold_drinks",
+      "prices": [
+        {
+          "amount_mkd": 180,
+          "option": null
+        }
+      ],
+      "temperature": "cold",
+      "caffeine": true,
+      "available": true,
+      "sweetness": "medium",
+      "allergens": [],
+      "flavor_profile": [
+        "bold",
+        "smooth",
+        "refreshing"
+      ],
+      "description": "A refreshing iced coffee made with double espresso blended with ice to create a rich foam and smooth texture."
+    },
+    {
+      "id": "freddo_cappuccino",
+      "name": "Freddo Cappuccino",
+      "category": "cold_drinks",
+      "prices": [
+        {
+          "amount_mkd": 190,
+          "option": null
+        }
+      ],
+      "temperature": "cold",
+      "caffeine": true,
+      "available": true,
+      "sweetness": "high",
+      "allergens": [
+        "milk"
+      ],
+      "flavor_profile": [
+        "creamy",
+        "sweet",
+        "refreshing"
+      ],
+      "description": "A chilled double espresso topped with cold frothed milk and ice, offering a smooth, creamy, and refreshing coffee experience."
+    },
+    {
+      "id": "cold_nescafe",
+      "name": "Cold Nescafe",
+      "category": "cold_drinks",
+      "prices": [
+        {
+          "amount_mkd": 170,
+          "option": null
+        }
+      ],
+      "temperature": "cold",
+      "caffeine": true,
+      "available": true,
+      "sweetness": "medium",
+      "allergens": [
+        "milk"
+      ],
+      "flavor_profile": [
+        "sweet",
+        "smooth",
+        "refreshing"
+      ],
+      "description": "Instant coffee blended with cold milk, ice, and sweetener for a smooth and refreshing iced drink."
+    },
+    {
+      "id": "iced_latte",
+      "name": "Iced Latte",
+      "category": "cold_drinks",
+      "prices": [
+        {
+          "amount_mkd": 170,
+          "option": null
+        }
+      ],
+      "temperature": "cold",
+      "caffeine": true,
+      "available": true,
+      "sweetness": "low",
+      "allergens": [
+        "milk"
+      ],
+      "flavor_profile": [
+        "creamy",
+        "smooth",
+        "balanced"
+      ],
+      "description": "A refreshing coffee drink made with espresso, cold milk, and ice for a smooth and creamy taste."
+    },
+    {
+      "id": "still_water_0_33l",
+      "name": "Still Water 0.33L",
+      "category": "soft_drinks",
+      "prices": [
+        {
+          "amount_mkd": 90,
+          "option": null
+        }
+      ],
+      "temperature": "cold",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "none",
+      "allergens": [],
+      "flavor_profile": [
+        "refreshing",
+        "clean",
+        "light"
+      ],
+      "description": "Refreshing bottled still water served chilled."
+    },
+    {
+      "id": "still_water_0_75l",
+      "name": "Still Water 0.75L",
+      "category": "soft_drinks",
+      "prices": [
+        {
+          "amount_mkd": 160,
+          "option": null
+        }
+      ],
+      "temperature": "cold",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "none",
+      "allergens": [],
+      "flavor_profile": [
+        "refreshing",
+        "clean",
+        "light"
+      ],
+      "description": "Large bottled still water served chilled."
+    },
+    {
+      "id": "sparkling_water_0_33l",
+      "name": "Sparkling Water 0.33L",
+      "category": "soft_drinks",
+      "prices": [
+        {
+          "amount_mkd": 90,
+          "option": null
+        }
+      ],
+      "temperature": "cold",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "none",
+      "allergens": [],
+      "flavor_profile": [
+        "sparkling",
+        "refreshing",
+        "crisp"
+      ],
+      "description": "Refreshing sparkling mineral water served chilled."
+    },
+    {
+      "id": "sparkling_water_0_75l",
+      "name": "Sparkling Water 0.75L",
+      "category": "soft_drinks",
+      "prices": [
+        {
+          "amount_mkd": 160,
+          "option": null
+        }
+      ],
+      "temperature": "cold",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "none",
+      "allergens": [],
+      "flavor_profile": [
+        "sparkling",
+        "crisp",
+        "refreshing"
+      ],
+      "description": "Large sparkling mineral water served chilled."
+    },
+    {
+      "id": "coca_cola",
+      "name": "Coca-Cola",
+      "category": "soft_drinks",
+      "prices": [
+        {
+          "amount_mkd": 150,
+          "option": null
+        }
+      ],
+      "temperature": "cold",
+      "caffeine": true,
+      "available": true,
+      "sweetness": "high",
+      "allergens": [],
+      "flavor_profile": [
+        "sweet",
+        "fizzy",
+        "refreshing"
+      ],
+      "description": "Classic chilled Coca-Cola with a refreshing fizzy taste."
+    },
+    {
+      "id": "fanta",
+      "name": "Fanta",
+      "category": "soft_drinks",
+      "prices": [
+        {
+          "amount_mkd": 150,
+          "option": null
+        }
+      ],
+      "temperature": "cold",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "high",
+      "allergens": [],
+      "flavor_profile": [
+        "fruity",
+        "fizzy",
+        "sweet"
+      ],
+      "description": "Refreshing orange-flavored carbonated soft drink served chilled."
+    },
+    {
+      "id": "sprite",
+      "name": "Sprite",
+      "category": "soft_drinks",
+      "prices": [
+        {
+          "amount_mkd": 150,
+          "option": null
+        }
+      ],
+      "temperature": "cold",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "medium",
+      "allergens": [],
+      "flavor_profile": [
+        "citrus",
+        "fizzy",
+        "refreshing"
+      ],
+      "description": "Refreshing lemon-lime flavored soft drink served cold."
+    },
+    {
+      "id": "schweppes",
+      "name": "Schweppes",
+      "category": "soft_drinks",
+      "prices": [
+        {
+          "amount_mkd": 150,
+          "option": null
+        }
+      ],
+      "temperature": "cold",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "medium",
+      "allergens": [],
+      "flavor_profile": [
+        "bitter",
+        "fizzy",
+        "refreshing"
+      ],
+      "description": "Carbonated soft drink with a refreshing slightly bitter citrus flavor."
+    },
+    {
+      "id": "fresh_orange_juice",
+      "name": "Fresh Orange Juice",
+      "category": "soft_drinks",
+      "prices": [
+        {
+          "amount_mkd": 200,
+          "option": null
+        }
+      ],
+      "temperature": "cold",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "medium",
+      "allergens": [],
+      "flavor_profile": [
+        "fruity",
+        "fresh",
+        "citrus"
+      ],
+      "description": "Freshly squeezed orange juice served chilled for a natural and refreshing taste."
+    },
+    {
+      "id": "homemade_lemonade",
+      "name": "Homemade Lemonade",
+      "category": "soft_drinks",
+      "prices": [
+        {
+          "amount_mkd": 190,
+          "option": null
+        }
+      ],
+      "temperature": "cold",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "medium",
+      "allergens": [],
+      "flavor_profile": [
+        "citrus",
+        "refreshing",
+        "sweet"
+      ],
+      "description": "Refreshing homemade lemonade made with freshly squeezed lemon, sugar, water, and fresh mint leaves."
+    },
+    {
+      "id": "strawberry_lemonade",
+      "name": "Strawberry Lemonade",
+      "category": "soft_drinks",
+      "prices": [
+        {
+          "amount_mkd": 210,
+          "option": null
+        }
+      ],
+      "temperature": "cold",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "high",
+      "allergens": [],
+      "flavor_profile": [
+        "fruity",
+        "sweet",
+        "refreshing"
+      ],
+      "description": "Refreshing lemonade made with freshly squeezed lemon and blended strawberries for a sweet and fruity flavor."
+    },
+    {
+      "id": "apple_juice",
+      "name": "Apple Juice",
+      "category": "soft_drinks",
+      "prices": [
+        {
+          "amount_mkd": 150,
+          "option": null
+        }
+      ],
+      "temperature": "cold",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "medium",
+      "allergens": [],
+      "flavor_profile": [
+        "fruity",
+        "sweet",
+        "refreshing"
+      ],
+      "description": "Refreshing chilled apple juice with a naturally sweet flavor."
+    },
+    {
+      "id": "peach_juice",
+      "name": "Peach Juice",
+      "category": "soft_drinks",
+      "prices": [
+        {
+          "amount_mkd": 150,
+          "option": null
+        }
+      ],
+      "temperature": "cold",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "medium",
+      "allergens": [],
+      "flavor_profile": [
+        "fruity",
+        "smooth",
+        "sweet"
+      ],
+      "description": "Chilled peach juice with a smooth and refreshing fruity taste."
+    },
+    {
+      "id": "iced_tea",
+      "name": "Iced Tea",
+      "category": "soft_drinks",
+      "prices": [
+        {
+          "amount_mkd": 150,
+          "option": null
+        }
+      ],
+      "temperature": "cold",
+      "caffeine": true,
+      "available": true,
+      "sweetness": "medium",
+      "allergens": [],
+      "flavor_profile": [
+        "refreshing",
+        "smooth",
+        "sweet"
+      ],
+      "description": "Refreshing chilled iced tea served cold with a smooth and lightly sweet flavor."
+    },
+    {
+      "id": "smoothie_with_quinoa_and_seeds",
+      "name": "Smoothie with Quinoa and Seeds",
+      "category": "smoothies",
+      "prices": [
+        {
+          "amount_mkd": 200,
+          "option": "regular milk"
+        },
+        {
+          "amount_mkd": 230,
+          "option": "almond milk"
+        }
+      ],
+      "temperature": "cold",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "medium",
+      "allergens": [
+        "milk (regular milk option)",
+        "nuts (almond milk option)"
+      ],
+      "flavor_profile": [
+        "healthy",
+        "creamy",
+        "nutritious"
+      ],
+      "description": "A nutritious smoothie made with quinoa, chia seeds, flax seeds, pumpkin seeds, sunflower seeds, and banana for a rich and healthy energy boost."
+    },
+    {
+      "id": "antioxidant_smoothie",
+      "name": "Antioxidant Smoothie",
+      "category": "smoothies",
+      "prices": [
+        {
+          "amount_mkd": 220,
+          "option": "regular milk"
+        },
+        {
+          "amount_mkd": 250,
+          "option": "almond milk"
+        }
+      ],
+      "temperature": "cold",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "medium",
+      "allergens": [
+        "milk (regular milk option)",
+        "nuts (almond milk option)"
+      ],
+      "flavor_profile": [
+        "fruity",
+        "refreshing",
+        "healthy"
+      ],
+      "description": "A refreshing antioxidant-rich smoothie made with strawberries, yogurt, black chokeberry, banana, and chia seeds."
+    },
+    {
+      "id": "pineapple_smoothie",
+      "name": "Pineapple Smoothie",
+      "category": "smoothies",
+      "prices": [
+        {
+          "amount_mkd": 220,
+          "option": "regular milk"
+        },
+        {
+          "amount_mkd": 250,
+          "option": "almond milk"
+        }
+      ],
+      "temperature": "cold",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "medium",
+      "allergens": [
+        "milk (regular milk option)",
+        "nuts (almond milk option)"
+      ],
+      "flavor_profile": [
+        "tropical",
+        "creamy",
+        "refreshing"
+      ],
+      "description": "A tropical smoothie made with pineapple, banana, and vanilla extract for a smooth and refreshing flavor."
+    },
+    {
+      "id": "fruits_smoothie",
+      "name": "Fruits Smoothie",
+      "category": "smoothies",
+      "prices": [
+        {
+          "amount_mkd": 220,
+          "option": "regular milk"
+        },
+        {
+          "amount_mkd": 250,
+          "option": "almond milk"
+        }
+      ],
+      "temperature": "cold",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "high",
+      "allergens": [
+        "milk (regular milk option)",
+        "nuts (almond milk option)"
+      ],
+      "flavor_profile": [
+        "fruity",
+        "sweet",
+        "refreshing"
+      ],
+      "description": "A mixed fruit smoothie made with strawberries, raspberries, cherries, aronia, and banana for a rich and refreshing fruity taste."
+    },
+    {
+      "id": "tikvesh_yellow_brandy",
+      "name": "Tikvesh Yellow Brandy",
+      "category": "alcoholic_drinks",
+      "prices": [
+        {
+          "amount_mkd": 130,
+          "option": null
+        }
+      ],
+      "temperature": "room temperature",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "low",
+      "allergens": [],
+      "flavor_profile": [
+        "strong",
+        "rich",
+        "smooth"
+      ],
+      "description": "Traditional yellow brandy with a rich aroma and smooth strong flavor."
+    },
+    {
+      "id": "tikvesh_white_brandy",
+      "name": "Tikvesh White Brandy",
+      "category": "alcoholic_drinks",
+      "prices": [
+        {
+          "amount_mkd": 130,
+          "option": null
+        }
+      ],
+      "temperature": "room temperature",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "low",
+      "allergens": [],
+      "flavor_profile": [
+        "crisp",
+        "strong",
+        "smooth"
+      ],
+      "description": "Traditional white brandy with a clean and refreshing strong taste."
+    },
+    {
+      "id": "badel_cognac",
+      "name": "Badel Cognac",
+      "category": "alcoholic_drinks",
+      "prices": [
+        {
+          "amount_mkd": 150,
+          "option": null
+        }
+      ],
+      "temperature": "room temperature",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "medium",
+      "allergens": [],
+      "flavor_profile": [
+        "rich",
+        "smooth",
+        "warm"
+      ],
+      "description": "Classic cognac with a smooth texture and rich aromatic flavor."
+    },
+    {
+      "id": "j_germeister",
+      "name": "Jägermeister",
+      "category": "alcoholic_drinks",
+      "prices": [
+        {
+          "amount_mkd": 180,
+          "option": null
+        }
+      ],
+      "temperature": "cold",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "medium",
+      "allergens": [],
+      "flavor_profile": [
+        "herbal",
+        "bitter",
+        "strong"
+      ],
+      "description": "Herbal liqueur served chilled with a bold bittersweet flavor."
+    },
+    {
+      "id": "pelinkovac",
+      "name": "Pelinkovac",
+      "category": "alcoholic_drinks",
+      "prices": [
+        {
+          "amount_mkd": 150,
+          "option": null
+        }
+      ],
+      "temperature": "cold",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "low",
+      "allergens": [],
+      "flavor_profile": [
+        "bitter",
+        "herbal",
+        "strong"
+      ],
+      "description": "Traditional herbal liqueur with a distinctive bitter flavor and refreshing finish."
+    },
+    {
+      "id": "baileys",
+      "name": "Baileys",
+      "category": "alcoholic_drinks",
+      "prices": [
+        {
+          "amount_mkd": 150,
+          "option": null
+        }
+      ],
+      "temperature": "cold",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "high",
+      "allergens": [
+        "milk"
+      ],
+      "flavor_profile": [
+        "creamy",
+        "sweet",
+        "smooth"
+      ],
+      "description": "Creamy Irish liqueur with a smooth sweet flavor and rich texture."
+    },
+    {
+      "id": "campari",
+      "name": "Campari",
+      "category": "alcoholic_drinks",
+      "prices": [
+        {
+          "amount_mkd": 180,
+          "option": null
+        }
+      ],
+      "temperature": "cold",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "low",
+      "allergens": [],
+      "flavor_profile": [
+        "bitter",
+        "citrus",
+        "refreshing"
+      ],
+      "description": "Classic Italian aperitif with a bittersweet citrus flavor served chilled."
+    },
+    {
+      "id": "ouzo_12",
+      "name": "Ouzo 12",
+      "category": "alcoholic_drinks",
+      "prices": [
+        {
+          "amount_mkd": 150,
+          "option": null
+        }
+      ],
+      "temperature": "cold",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "low",
+      "allergens": [],
+      "flavor_profile": [
+        "herbal",
+        "strong",
+        "aromatic"
+      ],
+      "description": "Traditional anise-flavored spirit with a smooth and refreshing herbal taste."
+    },
+    {
+      "id": "don_julio_tequila",
+      "name": "Don Julio Tequila",
+      "category": "alcoholic_drinks",
+      "prices": [
+        {
+          "amount_mkd": 170,
+          "option": null
+        }
+      ],
+      "temperature": "room temperature",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "low",
+      "allergens": [],
+      "flavor_profile": [
+        "smooth",
+        "strong",
+        "rich"
+      ],
+      "description": "Premium tequila with a smooth texture and rich agave flavor."
+    },
+    {
+      "id": "captain_morgan_rum",
+      "name": "Captain Morgan Rum",
+      "category": "alcoholic_drinks",
+      "prices": [
+        {
+          "amount_mkd": 150,
+          "option": null
+        }
+      ],
+      "temperature": "room temperature",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "medium",
+      "allergens": [],
+      "flavor_profile": [
+        "sweet",
+        "spiced",
+        "smooth"
+      ],
+      "description": "Spiced rum with warm vanilla and caramel notes for a smooth and flavorful taste."
+    },
+    {
+      "id": "martini",
+      "name": "Martini",
+      "category": "alcoholic_drinks",
+      "prices": [
+        {
+          "amount_mkd": 150,
+          "option": null
+        }
+      ],
+      "temperature": "cold",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "medium",
+      "allergens": [],
+      "flavor_profile": [
+        "smooth",
+        "herbal",
+        "refreshing"
+      ],
+      "description": "Classic vermouth-based aperitif with a smooth and slightly herbal flavor."
+    },
+    {
+      "id": "stock_brandy",
+      "name": "Stock Brandy",
+      "category": "alcoholic_drinks",
+      "prices": [
+        {
+          "amount_mkd": 200,
+          "option": null
+        }
+      ],
+      "temperature": "room temperature",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "medium",
+      "allergens": [],
+      "flavor_profile": [
+        "rich",
+        "warm",
+        "smooth"
+      ],
+      "description": "Premium brandy with a rich aroma and smooth warming finish."
+    },
+    {
+      "id": "smirnoff_vodka",
+      "name": "Smirnoff Vodka",
+      "category": "alcoholic_drinks",
+      "prices": [
+        {
+          "amount_mkd": 200,
+          "option": null
+        }
+      ],
+      "temperature": "cold",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "none",
+      "allergens": [],
+      "flavor_profile": [
+        "crisp",
+        "clean",
+        "strong"
+      ],
+      "description": "Classic vodka with a clean and smooth taste served chilled."
+    },
+    {
+      "id": "beefeater_gin",
+      "name": "Beefeater Gin",
+      "category": "alcoholic_drinks",
+      "prices": [
+        {
+          "amount_mkd": 200,
+          "option": null
+        }
+      ],
+      "temperature": "cold",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "low",
+      "allergens": [],
+      "flavor_profile": [
+        "herbal",
+        "citrus",
+        "crisp"
+      ],
+      "description": "London dry gin with refreshing citrus and juniper flavors."
+    },
+    {
+      "id": "bombay_sapphire_gin",
+      "name": "Bombay Sapphire Gin",
+      "category": "alcoholic_drinks",
+      "prices": [
+        {
+          "amount_mkd": 200,
+          "option": null
+        }
+      ],
+      "temperature": "cold",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "low",
+      "allergens": [],
+      "flavor_profile": [
+        "botanical",
+        "smooth",
+        "citrus"
+      ],
+      "description": "Premium gin infused with botanical flavors and a smooth refreshing finish."
+    },
+    {
+      "id": "gordons_gin",
+      "name": "Gordon's Gin",
+      "category": "alcoholic_drinks",
+      "prices": [
+        {
+          "amount_mkd": 200,
+          "option": null
+        }
+      ],
+      "temperature": "cold",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "low",
+      "allergens": [],
+      "flavor_profile": [
+        "crisp",
+        "herbal",
+        "refreshing"
+      ],
+      "description": "Classic London dry gin with refreshing juniper and citrus notes."
+    },
+    {
+      "id": "jameson",
+      "name": "Jameson",
+      "category": "whiskey",
+      "prices": [
+        {
+          "amount_mkd": 250,
+          "option": null
+        }
+      ],
+      "temperature": "room temperature",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "low",
+      "allergens": [],
+      "flavor_profile": [
+        "smooth",
+        "rich",
+        "warm"
+      ],
+      "description": "Classic Irish whiskey with a smooth texture and balanced flavor with subtle vanilla notes."
+    },
+    {
+      "id": "tullamore_d_e_w",
+      "name": "Tullamore D.E.W.",
+      "category": "whiskey",
+      "prices": [
+        {
+          "amount_mkd": 250,
+          "option": null
+        }
+      ],
+      "temperature": "room temperature",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "low",
+      "allergens": [],
+      "flavor_profile": [
+        "smooth",
+        "light",
+        "balanced"
+      ],
+      "description": "Triple-distilled Irish whiskey with a smooth and mellow character."
+    },
+    {
+      "id": "johnnie_walker",
+      "name": "Johnnie Walker",
+      "category": "whiskey",
+      "prices": [
+        {
+          "amount_mkd": 250,
+          "option": null
+        }
+      ],
+      "temperature": "room temperature",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "low",
+      "allergens": [],
+      "flavor_profile": [
+        "smoky",
+        "rich",
+        "smooth"
+      ],
+      "description": "Blended Scotch whisky with a rich smoky aroma and smooth finish."
+    },
+    {
+      "id": "jim_beam",
+      "name": "Jim Beam",
+      "category": "whiskey",
+      "prices": [
+        {
+          "amount_mkd": 250,
+          "option": null
+        }
+      ],
+      "temperature": "room temperature",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "medium",
+      "allergens": [],
+      "flavor_profile": [
+        "sweet",
+        "warm",
+        "smooth"
+      ],
+      "description": "Classic bourbon whiskey with vanilla and caramel notes and a smooth finish."
+    },
+    {
+      "id": "j_b",
+      "name": "J&B",
+      "category": "whiskey",
+      "prices": [
+        {
+          "amount_mkd": 250,
+          "option": null
+        }
+      ],
+      "temperature": "room temperature",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "low",
+      "allergens": [],
+      "flavor_profile": [
+        "light",
+        "smooth",
+        "balanced"
+      ],
+      "description": "Smooth blended Scotch whisky with a light and balanced flavor profile."
+    },
+    {
+      "id": "jack_daniels",
+      "name": "Jack Daniel's",
+      "category": "whiskey",
+      "prices": [
+        {
+          "amount_mkd": 250,
+          "option": null
+        }
+      ],
+      "temperature": "room temperature",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "medium",
+      "allergens": [],
+      "flavor_profile": [
+        "smoky",
+        "sweet",
+        "rich"
+      ],
+      "description": "Tennessee whiskey with smooth caramel and vanilla notes and a slightly smoky finish."
+    },
+    {
+      "id": "elixir_of_youth",
+      "name": "Elixir of Youth",
+      "category": "cocktails",
+      "prices": [
+        {
+          "amount_mkd": 600,
+          "option": "0.5L"
+        },
+        {
+          "amount_mkd": 1200,
+          "option": "1L"
+        }
+      ],
+      "temperature": "cold",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "medium",
+      "allergens": [],
+      "flavor_profile": [
+        "citrus",
+        "refreshing",
+        "smooth"
+      ],
+      "description": "A refreshing cocktail made with vodka, prosecco, orange juice, and lemon juice for a light and vibrant taste."
+    },
+    {
+      "id": "big_blue_sky",
+      "name": "Big Blue Sky",
+      "category": "cocktails",
+      "prices": [
+        {
+          "amount_mkd": 350,
+          "option": null
+        }
+      ],
+      "temperature": "cold",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "high",
+      "allergens": [
+        "milk"
+      ],
+      "flavor_profile": [
+        "tropical",
+        "creamy",
+        "sweet"
+      ],
+      "description": "A tropical cocktail made with light rum, blue curaçao, coconut cream, and pineapple juice for a rich and refreshing flavor."
+    },
+    {
+      "id": "pi_a_colada",
+      "name": "Piña Colada",
+      "category": "cocktails",
+      "prices": [
+        {
+          "amount_mkd": 350,
+          "option": null
+        }
+      ],
+      "temperature": "cold",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "high",
+      "allergens": [
+        "milk"
+      ],
+      "flavor_profile": [
+        "tropical",
+        "creamy",
+        "sweet"
+      ],
+      "description": "A classic tropical cocktail made with light rum, coconut cream, and pineapple juice."
+    },
+    {
+      "id": "tequila_sunrise",
+      "name": "Tequila Sunrise",
+      "category": "cocktails",
+      "prices": [
+        {
+          "amount_mkd": 350,
+          "option": null
+        }
+      ],
+      "temperature": "cold",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "medium",
+      "allergens": [],
+      "flavor_profile": [
+        "citrus",
+        "fruity",
+        "refreshing"
+      ],
+      "description": "A vibrant cocktail made with tequila, orange juice, and grenadine syrup for a sweet citrus flavor."
+    },
+    {
+      "id": "blue_lagoon",
+      "name": "Blue Lagoon",
+      "category": "cocktails",
+      "prices": [
+        {
+          "amount_mkd": 350,
+          "option": null
+        }
+      ],
+      "temperature": "cold",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "medium",
+      "allergens": [],
+      "flavor_profile": [
+        "citrus",
+        "refreshing",
+        "fruity"
+      ],
+      "description": "A refreshing cocktail made with vodka, lemon juice, and blue curaçao for a bright citrus flavor."
+    },
+    {
+      "id": "long_island_iced_tea",
+      "name": "Long Island Iced Tea",
+      "category": "cocktails",
+      "prices": [
+        {
+          "amount_mkd": 400,
+          "option": null
+        }
+      ],
+      "temperature": "cold",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "medium",
+      "allergens": [],
+      "flavor_profile": [
+        "strong",
+        "citrus",
+        "refreshing"
+      ],
+      "description": "A strong cocktail combining white rum, tequila, gin, vodka, triple sec, lemon juice, and Coca-Cola."
+    },
+    {
+      "id": "sex_on_the_beach",
+      "name": "Sex on the Beach",
+      "category": "cocktails",
+      "prices": [
+        {
+          "amount_mkd": 400,
+          "option": null
+        }
+      ],
+      "temperature": "cold",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "high",
+      "allergens": [],
+      "flavor_profile": [
+        "fruity",
+        "sweet",
+        "refreshing"
+      ],
+      "description": "A fruity cocktail made with vodka, cranberry juice, orange juice, and peach schnapps."
+    },
+    {
+      "id": "mojito",
+      "name": "Mojito",
+      "category": "cocktails",
+      "prices": [
+        {
+          "amount_mkd": 400,
+          "option": null
+        }
+      ],
+      "temperature": "cold",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "medium",
+      "allergens": [],
+      "flavor_profile": [
+        "minty",
+        "citrus",
+        "refreshing"
+      ],
+      "description": "A refreshing cocktail made with white rum, mint, lime, and soda water."
+    },
+    {
+      "id": "aperol_spritz",
+      "name": "Aperol Spritz",
+      "category": "cocktails",
+      "prices": [
+        {
+          "amount_mkd": 350,
+          "option": null
+        }
+      ],
+      "temperature": "cold",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "medium",
+      "allergens": [],
+      "flavor_profile": [
+        "citrus",
+        "sparkling",
+        "refreshing"
+      ],
+      "description": "A refreshing Italian cocktail made with Aperol, prosecco, and soda water."
+    },
+    {
+      "id": "negroni",
+      "name": "Negroni",
+      "category": "cocktails",
+      "prices": [
+        {
+          "amount_mkd": 400,
+          "option": null
+        }
+      ],
+      "temperature": "cold",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "low",
+      "allergens": [],
+      "flavor_profile": [
+        "bitter",
+        "herbal",
+        "strong"
+      ],
+      "description": "A classic cocktail made with gin, Campari, and Martini Rosso with a bold bittersweet flavor."
+    },
+    {
+      "id": "malibu_cola",
+      "name": "Malibu Cola",
+      "category": "cocktails",
+      "prices": [
+        {
+          "amount_mkd": 300,
+          "option": null
+        }
+      ],
+      "temperature": "cold",
+      "caffeine": true,
+      "available": true,
+      "sweetness": "high",
+      "allergens": [],
+      "flavor_profile": [
+        "sweet",
+        "tropical",
+        "refreshing"
+      ],
+      "description": "A refreshing cocktail made with Malibu rum and Coca-Cola with a sweet coconut flavor."
+    },
+    {
+      "id": "green_eye",
+      "name": "Green Eye",
+      "category": "cocktails",
+      "prices": [
+        {
+          "amount_mkd": 350,
+          "option": null
+        }
+      ],
+      "temperature": "cold",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "medium",
+      "allergens": [],
+      "flavor_profile": [
+        "citrus",
+        "fruity",
+        "refreshing"
+      ],
+      "description": "A colorful cocktail made with vodka, blue curaçao, orange juice, and lemon juice."
+    },
+    {
+      "id": "black_russian",
+      "name": "Black Russian",
+      "category": "cocktails",
+      "prices": [
+        {
+          "amount_mkd": 300,
+          "option": null
+        }
+      ],
+      "temperature": "cold",
+      "caffeine": true,
+      "available": true,
+      "sweetness": "medium",
+      "allergens": [],
+      "flavor_profile": [
+        "rich",
+        "strong",
+        "smooth"
+      ],
+      "description": "A classic cocktail made with vodka and coffee liqueur for a rich and bold flavor."
+    },
+    {
+      "name": "Skopsko Beer 0.33L",
+      "category": "beer",
+      "prices": [
+        {
+          "amount_mkd": 170,
+          "option": null
+        }
+      ],
+      "temperature": "cold",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "low",
+      "allergens": [],
+      "flavor_profile": [
+        "crisp",
+        "refreshing",
+        "light"
+      ],
+      "description": "Classic Macedonian lager beer with a light and refreshing taste.",
+      "id": "skopsko_beer_0_33l"
+    },
+    {
+      "name": "Skopsko Smooth 0.33L",
+      "category": "beer",
+      "prices": [
+        {
+          "amount_mkd": 170,
+          "option": null
+        }
+      ],
+      "temperature": "cold",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "low",
+      "allergens": [],
+      "flavor_profile": [
+        "smooth",
+        "light",
+        "refreshing"
+      ],
+      "description": "Smooth lager beer with a balanced flavor and refreshing finish.",
+      "id": "skopsko_smooth_0_33l"
+    },
+    {
+      "name": "Heineken 0.25L",
+      "category": "beer",
+      "prices": [
+        {
+          "amount_mkd": 170,
+          "option": null
+        }
+      ],
+      "temperature": "cold",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "low",
+      "allergens": [],
+      "flavor_profile": [
+        "crisp",
+        "balanced",
+        "refreshing"
+      ],
+      "description": "Premium lager beer with a smooth and slightly bitter refreshing taste.",
+      "id": "heineken_0_25l"
+    },
+    {
+      "name": "Birra Moretti 0.4L",
+      "category": "beer",
+      "prices": [
+        {
+          "amount_mkd": 170,
+          "option": null
+        }
+      ],
+      "temperature": "cold",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "low",
+      "allergens": [],
+      "flavor_profile": [
+        "smooth",
+        "rich",
+        "balanced"
+      ],
+      "description": "Italian lager beer with a smooth malt flavor and refreshing finish.",
+      "id": "birra_moretti_0_4l"
+    },
+    {
+      "name": "Sol 0.33L",
+      "category": "beer",
+      "prices": [
+        {
+          "amount_mkd": 200,
+          "option": null
+        }
+      ],
+      "temperature": "cold",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "low",
+      "allergens": [],
+      "flavor_profile": [
+        "light",
+        "citrus",
+        "refreshing"
+      ],
+      "description": "Light Mexican lager beer with a crisp and refreshing citrus flavor.",
+      "id": "sol_0_33l"
+    },
+    {
+      "name": "Draft Beer 0.3L",
+      "category": "beer",
+      "prices": [
+        {
+          "amount_mkd": 150,
+          "option": null
+        }
+      ],
+      "temperature": "cold",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "low",
+      "allergens": [],
+      "flavor_profile": [
+        "fresh",
+        "crisp",
+        "refreshing"
+      ],
+      "description": "Freshly poured draft beer with a smooth and refreshing taste.",
+      "id": "draft_beer_0_3l"
+    },
+    {
+      "name": "Draft Beer 0.5L",
+      "category": "beer",
+      "prices": [
+        {
+          "amount_mkd": 200,
+          "option": null
+        }
+      ],
+      "temperature": "cold",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "low",
+      "allergens": [],
+      "flavor_profile": [
+        "fresh",
+        "crisp",
+        "refreshing"
+      ],
+      "description": "Large freshly poured draft beer with a smooth and refreshing taste.",
+      "id": "draft_beer_0_5l"
+    },
+    {
+      "name": "White Wine — Alexandria (Semi-Dry)",
+      "category": "wine",
+      "prices": [
+        {
+          "amount_mkd": 250,
+          "option": "0.187L"
+        },
+        {
+          "amount_mkd": 950,
+          "option": "0.75L"
+        }
+      ],
+      "temperature": "cold",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "medium",
+      "allergens": [],
+      "flavor_profile": [
+        "fruity",
+        "smooth",
+        "refreshing"
+      ],
+      "description": "Semi-dry white wine with a balanced fruity aroma and refreshing finish.",
+      "id": "white_wine_alexandria_semi_dry"
+    },
+    {
+      "name": "White Wine — Temjanika (Semi-Dry)",
+      "category": "wine",
+      "prices": [
+        {
+          "amount_mkd": 250,
+          "option": "0.187L"
+        },
+        {
+          "amount_mkd": 950,
+          "option": "0.75L"
+        }
+      ],
+      "temperature": "cold",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "medium",
+      "allergens": [],
+      "flavor_profile": [
+        "floral",
+        "aromatic",
+        "refreshing"
+      ],
+      "description": "Aromatic semi-dry white wine with floral notes and a smooth refreshing taste.",
+      "id": "white_wine_temjanika_semi_dry"
+    },
+    {
+      "name": "White Wine — Muscat Temjanika (Dry)",
+      "category": "wine",
+      "prices": [
+        {
+          "amount_mkd": 250,
+          "option": "0.187L"
+        }
+      ],
+      "temperature": "cold",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "low",
+      "allergens": [],
+      "flavor_profile": [
+        "floral",
+        "crisp",
+        "aromatic"
+      ],
+      "description": "Dry white wine with rich floral aromas and a crisp refreshing finish.",
+      "id": "white_wine_muscat_temjanika_dry"
+    },
+    {
+      "name": "Red Wine — Alexandria (Dry)",
+      "category": "wine",
+      "prices": [
+        {
+          "amount_mkd": 250,
+          "option": "0.187L"
+        },
+        {
+          "amount_mkd": 950,
+          "option": "0.75L"
+        }
+      ],
+      "temperature": "room temperature",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "low",
+      "allergens": [],
+      "flavor_profile": [
+        "rich",
+        "smooth",
+        "bold"
+      ],
+      "description": "Dry red wine with a rich aroma and smooth balanced flavor.",
+      "id": "red_wine_alexandria_dry"
+    },
+    {
+      "name": "Red Wine — T'ga za Jug (Semi-Dry)",
+      "category": "wine",
+      "prices": [
+        {
+          "amount_mkd": 250,
+          "option": "0.187L"
+        },
+        {
+          "amount_mkd": 950,
+          "option": "0.75L"
+        }
+      ],
+      "temperature": "room temperature",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "medium",
+      "allergens": [],
+      "flavor_profile": [
+        "fruity",
+        "rich",
+        "smooth"
+      ],
+      "description": "Famous Macedonian semi-dry red wine with fruity notes and a smooth finish.",
+      "id": "red_wine_tga_za_jug_semi_dry"
+    },
+    {
+      "name": "Rosé Wine — Alexandria (Semi-Dry)",
+      "category": "wine",
+      "prices": [
+        {
+          "amount_mkd": 250,
+          "option": "0.187L"
+        },
+        {
+          "amount_mkd": 950,
+          "option": "0.75L"
+        }
+      ],
+      "temperature": "cold",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "medium",
+      "allergens": [],
+      "flavor_profile": [
+        "fruity",
+        "light",
+        "refreshing"
+      ],
+      "description": "Semi-dry rosé wine with refreshing fruity aromas and a smooth finish.",
+      "id": "ros_wine_alexandria_semi_dry"
+    },
+    {
+      "id": "charcuterie_board",
+      "name": "Charcuterie Board",
+      "category": "food",
+      "prices": [
+        {
+          "amount_mkd": 2500,
+          "option": null
+        }
+      ],
+      "temperature": "room temperature",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "low",
+      "allergens": [
+        "milk",
+        "nuts",
+        "gluten"
+      ],
+      "flavor_profile": [
+        "savory",
+        "rich",
+        "gourmet"
+      ],
+      "description": "A premium charcuterie board served with prosciutto, cheese, salami, coppa, salty breadsticks, pancetta, kabanos sausage, seasonal fruit, and mixed nuts."
+    },
+    {
+      "id": "seasonal_fruit",
+      "name": "Seasonal Fruit",
+      "category": "food",
+      "prices": [
+        {
+          "amount_mkd": 250,
+          "option": null
+        }
+      ],
+      "temperature": "cold",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "medium",
+      "allergens": [],
+      "flavor_profile": [
+        "fruity",
+        "fresh",
+        "refreshing"
+      ],
+      "description": "A selection of fresh seasonal fruits served chilled."
+    },
+    {
+      "id": "mixed_nuts",
+      "name": "Mixed Nuts",
+      "category": "food",
+      "prices": [
+        {
+          "amount_mkd": 200,
+          "option": null
+        }
+      ],
+      "temperature": "room temperature",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "low",
+      "allergens": [
+        "nuts"
+      ],
+      "flavor_profile": [
+        "crunchy",
+        "savory",
+        "rich"
+      ],
+      "description": "A mix of premium roasted nuts served as a light snack."
+    },
+    {
+      "id": "ohrid_cake",
+      "name": "Ohrid Cake",
+      "category": "food",
+      "prices": [
+        {
+          "amount_mkd": 200,
+          "option": null
+        }
+      ],
+      "temperature": "cold",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "high",
+      "allergens": [
+        "milk",
+        "eggs",
+        "gluten"
+      ],
+      "flavor_profile": [
+        "sweet",
+        "creamy",
+        "rich"
+      ],
+      "description": "Traditional dessert cake with a rich creamy texture and sweet flavor."
+    },
+    {
+      "id": "croissant",
+      "name": "Croissant",
+      "category": "food",
+      "prices": [
+        {
+          "amount_mkd": 200,
+          "option": null
+        }
+      ],
+      "temperature": "warm",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "medium",
+      "allergens": [
+        "gluten",
+        "milk",
+        "eggs"
+      ],
+      "flavor_profile": [
+        "buttery",
+        "soft",
+        "light"
+      ],
+      "description": "Freshly baked buttery croissant with a soft and flaky texture."
+    },
+    {
+      "id": "nutella_croissant",
+      "name": "Nutella Croissant",
+      "category": "food",
+      "prices": [
+        {
+          "amount_mkd": 300,
+          "option": null
+        }
+      ],
+      "temperature": "warm",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "high",
+      "allergens": [
+        "gluten",
+        "milk",
+        "nuts",
+        "eggs"
+      ],
+      "flavor_profile": [
+        "sweet",
+        "chocolatey",
+        "rich"
+      ],
+      "description": "Warm croissant filled with Nutella and served with fresh fruits including banana, apple, watermelon, cherries, and strawberries."
+    },
+    {
+      "id": "croissant_with_ham_and_cheese",
+      "name": "Croissant with Ham and Cheese",
+      "category": "food",
+      "prices": [
+        {
+          "amount_mkd": 250,
+          "option": null
+        }
+      ],
+      "temperature": "warm",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "low",
+      "allergens": [
+        "gluten",
+        "milk",
+        "eggs"
+      ],
+      "flavor_profile": [
+        "savory",
+        "creamy",
+        "rich"
+      ],
+      "description": "Freshly baked croissant filled with ham and melted cheese for a rich savory flavor."
+    },
+    {
+      "id": "jam_croissant",
+      "name": "Jam Croissant",
+      "category": "food",
+      "prices": [
+        {
+          "amount_mkd": 230,
+          "option": null
+        }
+      ],
+      "temperature": "warm",
+      "caffeine": false,
+      "available": true,
+      "sweetness": "medium",
+      "allergens": [
+        "gluten",
+        "milk",
+        "eggs"
+      ],
+      "flavor_profile": [
+        "sweet",
+        "fruity",
+        "soft"
+      ],
+      "description": "Freshly baked croissant served with strawberry jam on the side."
+    }
+  ]
+}
